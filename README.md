@@ -11,7 +11,7 @@ I started my developer carreer in 1998 and never stop since. My life goals are p
 - 💲 I'm also available for new job positions if they are remote and partial time
 - 🌱 I’m currently learning more about Typescript and Azure Cloud Tools
 - 💬 I speak about software development, technology, dotnet, business, and leadership. I am extremely interested and dedicated to creating software solutions that solve everyday problems in people's lives
-- 📫 You can reach me out on my [LinkedIn](https://www.linkedin.com/in/ericrda/). Feel free to contact me!
+- 📫 You can reach me out on my [LinkedIn](https://www.linkedin.com/in/ericrda/) profile page. Feel free to contact me!
 
 I currently live in São Paulo, Brazil. Outside development, I love doing woodworking and work with manual and powertools. I'm always interested on creating new things.
 
