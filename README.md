@@ -13,7 +13,7 @@ I started my developer carreer in 1998 and never stop since. My life goals are p
 - 💬 I speak about software development, technology, dotnet, business, and leadership. I am extremely interested and dedicated to creating software solutions that solve everyday problems in people's lives
 - 📫 You can reach me out on my [LinkedIn](https://www.linkedin.com/in/ericrda/) profile page. Feel free to contact me!
 
-I currently live in São Paulo, Brazil. Outside development, I love doing woodworking and work with handtools and powertools. I'm always interested on creating new things.
+I currently live in São Paulo, Brazil. Outside development, I love doing woodworking with handtools and powertools. I'm always interested on creating new things.
 
 ## 💻 Technologies and Tools
 <p align="center">
