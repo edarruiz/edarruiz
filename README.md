@@ -6,10 +6,11 @@ I'm a Software Architect, Senior Software Developer, Cloud Backend Engineer, B2B
 
 I started my developer carreer in 1998 and never stop since. My life goals are programming and solving problems through software development, helping and teaching people about programming and learning about new stuff.
 
-- 🔭 I’m currently working on B2B and SaaS projects using dotnet and Azure at [CloudLab Tech](https://github.com/cloudlabtech).
+- 🔭 I’m currently working on B2B and SaaS projects using dotnet and Azure at [CloudLab Tech](https://github.com/cloudlabtech)
+- 💖 I'm an open-source software supporter and contributor
 - 💲 I'm also available for new job positions if they are remote and partial time
-- 🌱 I’m currently learning more about Typescript and Azure Cloud Tools.
-- 💬 I speak about software development, technology, dotnet, business, and leadership. I am extremely interested and dedicated to creating software solutions that solve everyday problems in people's lives.
+- 🌱 I’m currently learning more about Typescript and Azure Cloud Tools
+- 💬 I speak about software development, technology, dotnet, business, and leadership. I am extremely interested and dedicated to creating software solutions that solve everyday problems in people's lives
 - 📫 You can reach me out on my [LinkedIn](https://www.linkedin.com/in/ericrda/). Feel free to contact me!
 
 I currently live in São Paulo, Brazil. Outside development, I love doing woodworking and work with manual and powertools. I'm always interested on creating new things.
