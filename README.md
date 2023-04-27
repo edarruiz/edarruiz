@@ -51,7 +51,6 @@ I currently live in São Paulo, Brazil. Outside development, I love doing woodwo
 
 ## ⭐ GitHub Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=edarruiz&show_icons=true&theme=github_dark#gh-dark-mode-only&line_height=27&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api?username=edarruiz&show_icons=true&theme=default#gh-light-mode-only&line_height=27&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=edarruiz&show_icons=true&theme=github_dark&line_height=27&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=edarruiz&hide=css,java,html&theme=github_dark">
 </p>
