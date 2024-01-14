@@ -54,7 +54,6 @@ I currently live in São Paulo, Brazil. Outside development, I love doing woodwo
   <img src="https://img.shields.io/badge/Powershell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" height="32"/>
 </p>  
 
 ## ⭐ GitHub Stats
