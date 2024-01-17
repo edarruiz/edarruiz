@@ -30,6 +30,10 @@ I currently live in São Paulo, Brazil. Outside development, I love doing woodwo
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/JFrog-40BE46.svg?style=for-the-badge&logo=JFrog&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Octopus%20Deploy-2F93E0.svg?style=for-the-badge&logo=Octopus-Deploy&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Azure%20Artifacts-CB2E6D.svg?&style=for-the-badge&logo=azuredevops&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0.svg?&style=for-the-badge&logo=azurepipelines&logoColor=white" height="32"/>
@@ -40,6 +44,8 @@ I currently live in São Paulo, Brazil. Outside development, I love doing woodwo
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" height="32"/>  
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Material%20Design-757575.svg?style=for-the-badge&logo=Material-Design&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Material%20Design%20Icons-2196F3.svg?style=for-the-badge&logo=Material-Design-Icons&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/>
