@@ -57,6 +57,8 @@ I currently live in São Paulo, Brazil. Outside development, I love doing woodwo
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Delphi-EE1F35.svg?&style=for-the-badge&logo=delphi&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Powershell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" height="32"/>
