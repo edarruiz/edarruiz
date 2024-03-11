@@ -6,7 +6,7 @@ I'm a Software Architect, Senior Software Developer, Cloud Backend Engineer, B2B
 
 I started my developer carreer in 1998 and never stop since. My life goals are programming and solving problems through software development, helping and teaching people about programming and learning about new stuff.
 
-- 🔭 I’m currently working on B2B and SaaS projects using dotnet and Azure at [CloudLab Tech](https://github.com/cloudlabtech) in my free time
+- 🔭 I’m currently working on B2B and SaaS projects using dotnet and Azure in my free time
 - 🔭 I'm working full time as a Research and Development Software Architect at [BairesDev](https://www.bairesdev.com/) since 2023
 - 💖 I'm an open-source software supporter and contributor
 - 💲 I'm also available for new job positions if they are remote and partial time
