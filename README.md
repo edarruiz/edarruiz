@@ -2,14 +2,14 @@
 
 ### ✨ My name is Eric, welcome to my code cave! ✨
 
-I'm a Software Architect, Senior Software Developer, Cloud Backend Engineer, B2B and SaaS technology creator and Digital Entrepreneur.
+I'm a Software Architect, Senior Software Developer, Cloud Backend Engineer, B2B and SaaS technology creator, Digital Entrepreneur.
 
-I started my developer carreer in 1998 and never stop since. My life goals are programming and solving problems through software development, helping and teaching people about programming and learning about new stuff.
+I started my developer carreer in 1998 and never stop since. My life goals are programming to solve problems through software development, helping and teaching people about software development, business, systems architecture and learning about new stuff.
 
 - 🔭 I’m currently working on B2B and SaaS projects using dotnet and Azure in my free time
 - 🔭 I'm working full time as a Research and Development Software Architect at [BairesDev](https://www.bairesdev.com/) since 2023
 - 💖 I'm an open-source software supporter and contributor
-- 💲 I'm also available for new job positions if they are remote and partial time
+- 💲 I'm also available for new job positions if they are remote and partial time, with flexible schedule
 - 🌱 I’m currently learning more about Angular, Typescript and Azure Cloud Tools
 - 💬 I speak about software development, technology, dotnet, business, and leadership. I am extremely interested and dedicated to creating software solutions that solve everyday problems in people's lives
 - 📫 You can reach me out on my [LinkedIn](https://www.linkedin.com/in/ericrda/) profile page. Feel free to contact me!
@@ -67,10 +67,4 @@ I currently live in São Paulo, Brazil. Outside development, I love doing woodwo
   <img src="https://img.shields.io/badge/Jaeger-66CFE3.svg?style=for-the-badge&logo=Jaeger&logoColor=black" height="32">
   <img src="https://img.shields.io/badge/Graylog-FF3633.svg?style=for-the-badge&logo=Graylog&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Rancher-0075A8.svg?style=for-the-badge&logo=Rancher&logoColor=white" height="32">
-</p>  
-
-## ⭐ GitHub Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=edarruiz&show_icons=true&theme=github_dark&line_height=25&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=edarruiz&html&theme=github_dark&layout=compact">
 </p>
